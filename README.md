@@ -3,5 +3,5 @@
 
 >>This repository will contain all the projects of the odin project.
 
-***Project I: Recipes***
+[Project I: Recipes](https://sharrrkkk.github.io/the-odin-project/project-recipes/index.html)
 ---
